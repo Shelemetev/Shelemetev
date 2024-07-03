@@ -1,9 +1,10 @@
 ## Информация обо мне
 
-Я начинающий верстальщик, расчитываю на работу фрилансом.
-Обладаю знаниями HTML, CSS, SASS, JS, так же есть рабочая собрка
-на GULP,в будущем планируется изучить React. Все мои знания
-на данный момент приобретались на протяжении полугода
+Я начинающий Front-end разработчик.
+Обладаю знаниями HTML/CSS(Уверенные знания верстки), SASS, React/Redux, TypeScript. 
+Все мои знания на данный момент приобретались на протяжении года, все проекты,
+которые представлены ниже явялются учебными, для некоторых из них приходтлось брать
+бесплатные API-сервесы.
 ___
 
 ### Языки и технологии, которыми я владею
@@ -18,6 +19,7 @@ ___
 [https://shelemetev.github.io/boxing_club/](https://shelemetev.github.io/boxing_club/)
 ___
 
-### Со мной можено связаться 
+___
+### Со мной можно связаться 
 
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=#0077FF)](https://vk.com/pohuistegor) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/BeatDown_Hardcore)
