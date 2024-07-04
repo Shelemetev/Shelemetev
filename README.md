@@ -20,6 +20,7 @@ ___
 ___
 ### Мои работы React/Redux/TypeScript
 [https://shelemetev.github.io/Pet-Network/](https://shelemetev.github.io/Pet-Network/)
+[https://shelemetev.github.io/repo/](https://shelemetev.github.io/repo/)
 ___
 ### Со мной можно связаться 
 
