@@ -19,8 +19,9 @@ ___
 [https://shelemetev.github.io/boxing_club/](https://shelemetev.github.io/boxing_club/)
 ___
 ### Мои работы React/Redux/TypeScript
-[https://shelemetev.github.io/Pet-Network/](https://shelemetev.github.io/Pet-Network/)
 [https://shelemetev.github.io/repo/](https://shelemetev.github.io/repo/)
+
+[https://shelemetev.github.io/Pet-Network/](https://shelemetev.github.io/Pet-Network/)
 ___
 ### Со мной можно связаться 
 
